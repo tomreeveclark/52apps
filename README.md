@@ -10,8 +10,8 @@ As a challenge to myself to learn the basics of web development.
 
 ### 1: Hello World
 
-_Description_:
-_Live_:
-_Stack_:
+**Live**: [52apps1.vercel.app](52apps1.vercel.app)
 
-### 2:
+### 2: Hello Universe
+
+**Live**: [52apps2.vercel.app](52apps2.vercel.app)
